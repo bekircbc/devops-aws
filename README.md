@@ -28,6 +28,17 @@
 
 ## AWS
 
-- 
+- AWS = Computer Science Cloud
+
+- Cloud Computing
+
+- Resources Pooling - On-Demand Self-Service - Easy Maintenance
+
+- Large Network Access - Availability - Measured Service
+
+- Pay As You Go - Security - Economical
+
+- [Top 30 AWS Services](https://mindmajix.com/top-aws-services)
+
 
 
