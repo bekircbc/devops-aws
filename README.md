@@ -6,3 +6,18 @@
 
 - DevOps and DevSecOps
 
+# Devops
+
+- Devops --> Integration - Migration
+
+-- Plan 
+-- Code 
+-- Build 
+-- Test 
+-- Release 
+-- Deploy 
+-- Operate 
+-- Monitor
+
+
+
