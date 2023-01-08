@@ -44,7 +44,7 @@
 
 - serverless - Lambda - weekly makes one get-request from server..
 
-- S3 Bucket - creating web page
+- S3 Bucket - creating web page, etc.
 
 - Glassier - put data here. but not use often because of fees.
 
