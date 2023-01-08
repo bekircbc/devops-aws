@@ -10,14 +10,15 @@
 
 - Devops --> Integration - Migration
 
--- Plan 
--- Code 
--- Build 
--- Test 
--- Release 
--- Deploy 
--- Operate 
--- Monitor
+      -- Plan 
+      -- Code 
+      -- Build 
+      -- Test 
+      
+      -- Release 
+      -- Deploy 
+      -- Operate 
+      -- Monitor
 
 
 
