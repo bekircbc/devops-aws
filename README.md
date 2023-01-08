@@ -6,19 +6,22 @@
 
 - DevOps and DevSecOps
 
+- Jenkins, circleci, Travis CI, Git CI/CD
+
 # Devops
 
 - Devops --> Integration - Migration
 
       -- Plan 
-      -- Code 
+      -- Code           DEV
       -- Build 
       -- Test 
-      
+
       -- Release 
-      -- Deploy 
+      -- Deploy         OPS
       -- Operate 
       -- Monitor
 
+- SysAdmin, Deployment, Network and Storage, Automation tools, Testing, Security Aspects
 
 
