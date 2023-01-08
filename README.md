@@ -40,5 +40,13 @@
 
 - [Top 30 AWS Services](https://mindmajix.com/top-aws-services)
 
+- EC2 instance -- working always
+
+- serverless - Lambda - weekly makes one get-request from server..
+
+- S3 Bucket - creating web page
+
+- Glassier - put data here. but not use often because of fees.
+
 
 
